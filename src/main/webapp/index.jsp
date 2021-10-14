@@ -37,7 +37,7 @@
 
                 <p>Photo by Jing</p>
                 <p>
-                    Some description changed!!
+                    Some description have changed~~~
                 </p>
                            
             </article>
