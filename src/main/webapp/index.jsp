@@ -37,7 +37,7 @@
 
                 <p>Photo by Jing</p>
                 <p>
-                    Some changed description here branch 2 change
+                    Some description changed!!
                 </p>
                            
             </article>
