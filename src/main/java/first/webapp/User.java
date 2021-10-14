@@ -1,10 +1,10 @@
 package first.webapp;
 
 public class User {
-    protected String name;
-    protected String password;
-    protected String email;
-    protected String language;
+	protected String name;
+	protected String password;
+	protected String email;
+	protected String language;
 
     public User() {}
 
